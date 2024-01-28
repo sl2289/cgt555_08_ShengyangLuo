@@ -3903,18 +3903,3 @@ Script Stack (0 frames):
 [2024.01.28-16.46.07:658][936]LogOutputDevice: Error: [Callstack] 0x00007ff8702e257d KERNEL32.DLL!UnknownFunction []
 [2024.01.28-16.46.07:658][936]LogOutputDevice: Error: [Callstack] 0x00007ff87132aa58 ntdll.dll!UnknownFunction []
 [2024.01.28-16.46.07:658][936]LogOutputDevice: Error: 
-[2024.01.28-16.46.07:662][936]LogStats:                SubmitErrorReport -  0.000 s
-[2024.01.28-16.46.39:163][936]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [30695ms] waiting for h/w. InstanceID=1
-[2024.01.28-16.46.39:163][936]LogStats:                    SendNewReport - 31.501 s
-[2024.01.28-16.46.39:163][936]LogStats:             FDebug::EnsureFailed - 32.196 s
-[2024.01.28-16.46.39:164][936]LogSlate: Window 'Bake To Control Rig' being destroyed
-[2024.01.28-16.46.39:270][936]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=57052
-[2024.01.28-16.46.39:270][936]LogAutomationController: Ignoring very large delta of 32.54 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
-[2024.01.28-16.46.39:336][937]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{48f20d2f-d919-4f9b-b3f8-91bb4db70bea}, Name=Speakers (Logitech G560 Gaming Speaker)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=14.33
-[2024.01.28-16.46.39:336][937]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
-[2024.01.28-16.46.39:361][938]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
-[2024.01.28-16.46.55:630][149]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_A4BB6D4E6467DDD301_1358533873 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/24/XJKYHTQBN25C0BX5KC9PMX.PackageMetaData in its package
-[2024.01.28-16.46.55:646][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
-[2024.01.28-16.46.55:695][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
-[2024.01.28-16.46.55:733][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
-[2024.01.28-16.46.55:812][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
