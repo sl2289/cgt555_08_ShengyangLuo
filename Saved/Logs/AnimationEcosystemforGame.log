@@ -3918,3 +3918,222 @@ Script Stack (0 frames):
 [2024.01.28-16.46.55:695][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
 [2024.01.28-16.46.55:733][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
 [2024.01.28-16.46.55:812][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.01.28-16.53.11:284][341]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2024.01.28-16.53.28:586][341]LogSlate: Window 'Animation Sequence Options' being destroyed
+[2024.01.28-16.53.28:930][341]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/Manny_jump_start.Manny_jump_start
+[2024.01.28-16.53.29:039][341]LogAutomationController: Ignoring very large delta of 74.83 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.28-16.53.40:730][669]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2024.01.28-16.54.05:217][ 27]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/Manny_jump_start.Manny_jump_start
+[2024.01.28-16.54.05:248][ 27]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.01.28-16.54.05:253][ 27]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-16.54.05:342][ 27]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-16.54.05:342][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-16.56.08:854][ 88]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2024.01.28-16.56.10:113][ 88]LogSlate: Window 'Animation Sequence Options' being destroyed
+[2024.01.28-16.56.10:160][ 88]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/Manny_jump_loop.Manny_jump_loop
+[2024.01.28-16.56.10:229][ 88]LogAutomationController: Ignoring very large delta of 20.02 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.28-16.57.09:230][443]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2024.01.28-16.57.10:397][443]LogSlate: Window 'Animation Sequence Options' being destroyed
+[2024.01.28-16.57.10:441][443]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/Manny_jump_land.Manny_jump_land
+[2024.01.28-16.57.10:495][443]LogAutomationController: Ignoring very large delta of 19.84 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.28-16.58.09:165][837]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/Manny_jump_loop.Manny_jump_loop
+[2024.01.28-16.58.09:205][837]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.01.28-16.58.09:212][837]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-16.58.09:255][837]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-16.58.09:255][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-16.59.01:250][831]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/Manny_jump_land.Manny_jump_land
+[2024.01.28-16.59.01:275][831]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.01.28-16.59.01:281][831]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-16.59.01:322][831]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-16.59.01:322][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-16.59.48:539][895]BlueprintLog: New page: Compile ABP_Manny
+[2024.01.28-16.59.48:671][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.01.28-16.59.49:237][929]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2024.01.28-16.59.49:237][929]LogSavePackage: Moving 'C:/Users/71661/Documents/Unreal Projects/AnimationEcosystemforGame/Saved/ABP_MannyC8E606D04E1ED41618F068A3070C6ABB.tmp' to 'C:/Users/71661/Documents/Unreal Projects/AnimationEcosystemforGame/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2024.01.28-16.59.49:254][929]AssetCheck: New page: Asset Save: ABP_Manny
+[2024.01.28-16.59.49:254][929]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2024.01.28-17.00.22:837][ 80]LogEditorTransaction: Undo Delete current selection
+[2024.01.28-17.00.23:150][ 80]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.28-17.00.23:154][ 80]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.28-17.00.28:672][560]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/Manny_jump_land
+[2024.01.28-17.00.28:672][560]LogSavePackage: Moving 'C:/Users/71661/Documents/Unreal Projects/AnimationEcosystemforGame/Saved/Manny_jump_land6B7C97164E3AFEA551D90FB071195BB5.tmp' to 'C:/Users/71661/Documents/Unreal Projects/AnimationEcosystemforGame/Content/Characters/Mannequins/Animations/Manny/Manny_jump_land.uasset'
+[2024.01.28-17.00.28:689][560]AssetCheck: New page: Asset Save: Manny_jump_land
+[2024.01.28-17.00.28:689][560]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Mannequins/Animations/Manny/Manny_jump_land.Manny_jump_land
+[2024.01.28-17.01.42:712][ 82]BlueprintLog: New page: Compile ABP_Manny
+[2024.01.28-17.01.42:868][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.01.28-17.02.07:305][163]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/Manny_jump_start.Manny_jump_start
+[2024.01.28-17.02.07:334][163]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.01.28-17.02.07:341][163]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-17.02.07:390][163]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-17.02.07:390][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-17.02.30:468][987]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.01.28-17.02.30:473][987]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-17.02.30:515][987]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-17.02.30:515][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-17.02.32:779][162]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.01.28-17.02.32:784][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-17.02.32:825][162]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-17.02.32:825][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-17.02.53:817][642]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/Manny_jump_start.Manny_jump_start
+[2024.01.28-17.02.53:842][642]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.01.28-17.02.53:847][642]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-17.02.53:887][642]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-17.02.53:887][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-17.02.55:767][752]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/Manny_jump_start
+[2024.01.28-17.02.55:767][752]LogSavePackage: Moving 'C:/Users/71661/Documents/Unreal Projects/AnimationEcosystemforGame/Saved/Manny_jump_start7BFA64894E1E73C30492669144AE6D14.tmp' to 'C:/Users/71661/Documents/Unreal Projects/AnimationEcosystemforGame/Content/Characters/Mannequins/Animations/Manny/Manny_jump_start.uasset'
+[2024.01.28-17.02.55:784][752]AssetCheck: New page: Asset Save: Manny_jump_start
+[2024.01.28-17.02.55:784][752]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Mannequins/Animations/Manny/Manny_jump_start.Manny_jump_start
+[2024.01.28-17.03.16:697][590]BlueprintLog: New page: Compile ABP_Manny
+[2024.01.28-17.03.16:795][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.28-17.03.26:303][956]LogViewport: Scene viewport resized to 1526x580, mode Windowed.
+[2024.01.28-17.03.32:307][ 58]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-17.03.32:313][ 58]LogWorldPartition: Display: GenerateStreaming started...
+[2024.01.28-17.03.32:313][ 58]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.01.28-17.03.32:313][ 58]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2024.01.28-17.03.32:313][ 58]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2024.01.28-17.03.32:313][ 58]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2024.01.28-17.03.32:313][ 58]LogWorldPartition: Display: GetPartitionedActors took 44 us
+[2024.01.28-17.03.32:314][ 58]LogWorldPartition: Display: GenerateStreaming took 248 us
+[2024.01.28-17.03.32:314][ 58]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-17.03.32:314][ 58]PIE: New page: PIE session: ThirdPersonMap (2024年1月28日 上午7:03:32)
+[2024.01.28-17.03.32:347][ 58]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.28-17.03.32:351][ 58]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2024.01.28-17.03.32:351][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004055s)
+[2024.01.28-17.03.32:351][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004130s)
+[2024.01.28-17.03.32:351][ 58]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-17.03.32:351][ 58]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.28-17.03.32:362][ 58]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.28-17.03.32:362][ 58]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2024.01.28-17.03.32:362][ 58]LogWorldPartition: Display: WorldPartition initialize took 925 us
+[2024.01.28-17.03.32:362][ 58]LogPlayLevel: PIE: World Init took: (0.011679s)
+[2024.01.28-17.03.32:422][ 58]LogUObjectHash: Compacting FUObjectHashTables data took  19.69ms
+[2024.01.28-17.03.32:426][ 58]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.01.28-17.03.32:427][ 58]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-17.03.32:427][ 58]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-17.03.32:427][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-17.03.32:427][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-17.03.32:427][ 58]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.28-17.03.32:427][ 58]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.28-17.03.32:427][ 58]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.28-17.03.32:427][ 58]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-17.03.32:427][ 58]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-17.03.32:427][ 58]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-17.03.32:427][ 58]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-17.03.32:429][ 58]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-17.03.32:445][ 58]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G560 Gaming Speaker)
+[2024.01.28-17.03.32:445][ 58]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-17.03.32:445][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-17.03.32:445][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-17.03.32:447][ 58]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.01.28-17.03.32:447][ 58]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=21
+[2024.01.28-17.03.32:448][ 58]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.01.28-17.03.32:448][ 58]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.01.28-17.03.32:448][ 58]LogInit: FAudioDevice initialized.
+[2024.01.28-17.03.32:448][ 58]LogAudio: Display: Audio Device (ID: 21) registered with world 'ThirdPersonMap'.
+[2024.01.28-17.03.32:460][ 58]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.28-17.03.32:461][ 58]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.01.28-12.03.32
+[2024.01.28-17.03.32:461][ 58]LogWorld: Bringing up level for play took: 0.002156
+[2024.01.28-17.03.32:463][ 58]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2024.01.28-17.03.32:466][ 58]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2024.01.28-17.03.32:466][ 58]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2024.01.28-17.03.32:466][ 58]PIE: Server logged in
+[2024.01.28-17.03.32:468][ 58]PIE: Play in editor total start time 0.156 seconds.
+[2024.01.28-17.03.35:632][415]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'Manny_jump_land' into a pose that is expected to be additive in anim instance 'ABP_Quinn_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Quinn_C_0'
+[2024.01.28-17.04.09:268][181]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/Manny_jump_land.Manny_jump_land
+[2024.01.28-17.04.09:294][181]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.01.28-17.04.09:299][181]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-17.04.09:339][181]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-17.04.09:339][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-17.04.25:808][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-17.04.25:808][754]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.28-17.04.25:808][754]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-17.04.25:809][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-17.04.25:817][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-17.04.25:824][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-17.04.25:862][754]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-17.04.25:862][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.01.28-17.04.25:864][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.01.28-17.04.25:867][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-17.04.25:872][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.01.28-17.04.25:891][755]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2024.01.28-17.05.42:550][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.01.28-17.05.42:553][977]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.043
+[2024.01.28-17.05.42:554][977]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_Manny] ([2] browsable assets)...
+[2024.01.28-17.05.42:586][977]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny]
+[2024.01.28-17.05.42:586][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_Manny]
+[2024.01.28-17.05.42:621][977]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/ABP_Manny_Auto2
+[2024.01.28-17.05.42:621][977]LogSavePackage: Moving 'C:/Users/71661/Documents/Unreal Projects/AnimationEcosystemforGame/Saved/ABP_Manny_Auto2E6A4E99F42512B9D9A53C5B8B76449BA.tmp' to 'C:/Users/71661/Documents/Unreal Projects/AnimationEcosystemforGame/Saved/Autosaves/Game/Characters/Mannequins/Animations/ABP_Manny_Auto2.uasset'
+[2024.01.28-17.05.42:622][977]LogFileHelpers: Auto-saving content packages took 0.068
+[2024.01.28-17.06.18:872][743]BlueprintLog: New page: Compile ABP_Manny
+[2024.01.28-17.06.18:970][743]LogUObjectHash: Compacting FUObjectHashTables data took   8.75ms
+[2024.01.28-17.06.19:528][784]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2024.01.28-17.06.19:528][784]LogSavePackage: Moving 'C:/Users/71661/Documents/Unreal Projects/AnimationEcosystemforGame/Saved/ABP_MannyDF0F3FDD460E2973BA4B468D21BB4188.tmp' to 'C:/Users/71661/Documents/Unreal Projects/AnimationEcosystemforGame/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2024.01.28-17.06.19:543][784]AssetCheck: New page: Asset Save: ABP_Manny
+[2024.01.28-17.06.19:543][784]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2024.01.28-17.06.20:937][905]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-17.06.20:942][905]LogWorldPartition: Display: GenerateStreaming started...
+[2024.01.28-17.06.20:942][905]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.01.28-17.06.20:942][905]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2024.01.28-17.06.20:942][905]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2024.01.28-17.06.20:942][905]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2024.01.28-17.06.20:942][905]LogWorldPartition: Display: GetPartitionedActors took 39 us
+[2024.01.28-17.06.20:943][905]LogWorldPartition: Display: GenerateStreaming took 241 us
+[2024.01.28-17.06.20:943][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-17.06.20:943][905]PIE: New page: PIE session: ThirdPersonMap (2024年1月28日 上午7:06:20)
+[2024.01.28-17.06.20:943][905]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.28-17.06.20:947][905]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2024.01.28-17.06.20:947][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003813s)
+[2024.01.28-17.06.20:947][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003862s)
+[2024.01.28-17.06.20:947][905]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-17.06.20:947][905]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.28-17.06.20:948][905]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.28-17.06.20:948][905]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2024.01.28-17.06.20:949][905]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2024.01.28-17.06.20:949][905]LogPlayLevel: PIE: World Init took: (0.002099s)
+[2024.01.28-17.06.20:988][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.01.28-17.06.20:990][905]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.01.28-17.06.20:990][905]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-17.06.20:990][905]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-17.06.20:990][905]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-17.06.20:990][905]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-17.06.20:990][905]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.28-17.06.20:990][905]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.28-17.06.20:990][905]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.28-17.06.20:990][905]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-17.06.20:991][905]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-17.06.20:991][905]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-17.06.20:991][905]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-17.06.20:993][905]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-17.06.21:010][905]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G560 Gaming Speaker)
+[2024.01.28-17.06.21:010][905]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-17.06.21:010][905]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-17.06.21:010][905]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-17.06.21:010][905]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.01.28-17.06.21:010][905]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=22
+[2024.01.28-17.06.21:012][905]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.01.28-17.06.21:012][905]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.01.28-17.06.21:012][905]LogInit: FAudioDevice initialized.
+[2024.01.28-17.06.21:012][905]LogAudio: Display: Audio Device (ID: 22) registered with world 'ThirdPersonMap'.
+[2024.01.28-17.06.21:030][905]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.28-17.06.21:032][905]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.01.28-12.06.21
+[2024.01.28-17.06.21:032][905]LogWorld: Bringing up level for play took: 0.001958
+[2024.01.28-17.06.21:034][905]LogOnline: OSS: Created online subsystem instance for: :Context_84
+[2024.01.28-17.06.21:037][905]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2024.01.28-17.06.21:037][905]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2024.01.28-17.06.21:037][905]PIE: Server logged in
+[2024.01.28-17.06.21:037][905]PIE: Play in editor total start time 0.096 seconds.
+[2024.01.28-17.06.35:237][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-17.06.35:238][571]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.28-17.06.35:238][571]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-17.06.35:239][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-17.06.35:270][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-17.06.35:287][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-17.06.35:366][571]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-17.06.35:366][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.01.28-17.06.35:369][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.01.28-17.06.35:371][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-17.06.35:374][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.01.28-17.06.35:403][572]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2024.01.28-17.36.12:855][900]LogDerivedDataCache: C:/Users/71661/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.320 and deleted 0 file(s) with total size 0 MiB.
+[2024.01.28-18.36.12:524][641]LogDerivedDataCache: C:/Users/71661/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.280 and deleted 0 file(s) with total size 0 MiB.
+[2024.01.28-18.49.22:089][974]LogSlate: Window 'Bake To Control Rig' being destroyed
