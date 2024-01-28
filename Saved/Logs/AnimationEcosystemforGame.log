@@ -3062,3 +3062,22 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.01.28-14.50.54:265][520]LogAutomationController: Ignoring very large delta of 4.98 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2024.01.28-14.53.54:844][ 53]LogAutomationController: Ignoring very large delta of 2.31 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2024.01.28-14.53.59:029][ 54]LogAutomationController: Ignoring very large delta of 4.19 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.28-14.54.48:876][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.01.28-14.54.50:558][639]BlueprintLog: New page: Compile ABP_Manny
+[2024.01.28-14.54.55:246][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.01.28-14.54.56:294][639]LogAutomationController: Ignoring very large delta of 5.79 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.28-14.54.59:841][750]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2024.01.28-14.54.59:842][750]LogSavePackage: Moving 'C:/Users/71661/Documents/Unreal Projects/AnimationEcosystemforGame/Saved/ABP_MannyEF05045F442197515E605DA16D3668C9.tmp' to 'C:/Users/71661/Documents/Unreal Projects/AnimationEcosystemforGame/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2024.01.28-14.55.00:063][750]AssetCheck: New page: Asset Save: ABP_Manny
+[2024.01.28-14.55.00:064][750]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2024.01.28-14.55.00:114][750]LogAutomationController: Ignoring very large delta of 2.39 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.28-14.55.01:880][915]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/BS_Manny_IdleRun
+[2024.01.28-14.55.01:880][915]LogSavePackage: Moving 'C:/Users/71661/Documents/Unreal Projects/AnimationEcosystemforGame/Saved/BS_Manny_IdleRun47830BEB4BE1889D4B9B3DBA5CF600BD.tmp' to 'C:/Users/71661/Documents/Unreal Projects/AnimationEcosystemforGame/Content/Characters/Mannequins/Animations/Manny/BS_Manny_IdleRun.uasset'
+[2024.01.28-14.55.01:906][915]AssetCheck: New page: Asset Save: BS_Manny_IdleRun
+[2024.01.28-14.55.01:906][915]LogContentValidation: Display: Validating BlendSpace1D /Game/Characters/Mannequins/Animations/Manny/BS_Manny_IdleRun.BS_Manny_IdleRun
+[2024.01.28-14.55.04:473][ 80]BlueprintLog: New page: Compile CR_Mannequin_BasicFootIK
+[2024.01.28-14.55.05:344][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.01.28-14.55.08:705][263]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK
+[2024.01.28-14.55.08:706][263]LogSavePackage: Moving 'C:/Users/71661/Documents/Unreal Projects/AnimationEcosystemforGame/Saved/CR_Mannequin_BasicFootIKA0A0EC9D4BEBEFBDA96F8AA6C50B5011.tmp' to 'C:/Users/71661/Documents/Unreal Projects/AnimationEcosystemforGame/Content/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset'
+[2024.01.28-14.55.08:736][263]AssetCheck: New page: Asset Save: CR_Mannequin_BasicFootIK
+[2024.01.28-14.55.08:736][263]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK
